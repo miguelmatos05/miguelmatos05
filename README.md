@@ -15,6 +15,9 @@
 - [Projetos Faculdade em C](https://github.com/miguelmatos05/projetosfaculdadeemC)  
   Repositório dos principais projetos desenvolvidos durante a graduação, com foco em C e resolução de desafios de engenharia.
 
+-_[Projetos Faculdade em C](https://github.com/miguelmatos/projetosfaculdade.cpp)
+Repositório dos principais projetos durante a graduação em C++ (programação orientada a objetos).
+
 - [Código Ensino Secundário](https://github.com/miguelmatos05/codigoensinosecundario)  
   Coleção de códigos e exercícios do ensino secundário, mostrando minha evolução e paixão por programação.
 
