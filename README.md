@@ -12,17 +12,21 @@
 
 ## 🚀 Featured Projects
 
-. [Projetos Faculdade em C](https://github.com/miguelmatos05/projetosfaculdadeemC)  
+- [Projetos Faculdade em C](https://github.com/miguelmatos05/projetosfaculdadeemC)
+
   Repositório dos principais projetos desenvolvidos durante a graduação, com foco em C e resolução de desafios de engenharia.
 
-. [Projetos Faculdade em C++](https://github.com/miguelmatos/projetosfaculdade.cpp)
+- [Projetos Faculdade em C++](https://github.com/miguelmatos/projetosfaculdade.cpp)
+
   Repositório dos principais projetos durante a graduação em C++ (programação orientada a objetos).
 
-. [Códigos em Python](https://github.com/miguelmatos05/codigoensinosecundario)  
+- [Códigos em Python](https://github.com/miguelmatos05/codigoensinosecundario)
+
   Coleção de códigos e exercícios do ensino secundário e ensino superior, mostrando minha evolução e paixão por programação.
 
-. [Projetos da faculdade em Assembly RISC-V](https://github.com/miguelmatos05/Assembly-RISC-V)  
-  Exercícios e trabalhos em Assembly RV32I (RARS), com foco em sub-rotinas, vetores e cadeias de caracteres. 
+- [Projetos da faculdade em Assembly RISC-V](https://github.com/miguelmatos05/Assembly-RISC-V)
+
+  Exercícios e trabalhos em Assembly RV32I (RARS), com foco em sub-rotinas, vetores e cadeias de caracteres.
 ---
 
 ## 🌐 Connect with Me
