@@ -21,8 +21,8 @@
 . [Códigos em Python](https://github.com/miguelmatos05/codigoensinosecundario)  
   Coleção de códigos e exercícios do ensino secundário e ensino superior, mostrando minha evolução e paixão por programação.
 
-. [Projetos da faculdade em Assembly RISC-V](https://github.com/miguelmatos05/Assembly-RISC-V)
-  Coleção de programas em Assembly RISC-V usando um conjunto de instruções, rotinas e sub-rotinas. 
+. [Projetos da faculdade em Assembly RISC-V](https://github.com/miguelmatos05/Assembly-RISC-V)  
+  Exercícios e trabalhos em Assembly RV32I (RARS), com foco em sub-rotinas, vetores e cadeias de caracteres. 
 ---
 
 ## 🌐 Connect with Me
