@@ -19,8 +19,10 @@
   Repositório dos principais projetos durante a graduação em C++ (programação orientada a objetos).
 
 . [Códigos em Python](https://github.com/miguelmatos05/codigoensinosecundario)  
-  Coleção de códigos e exercícios do ensino secundário, mostrando minha evolução e paixão por programação.
+  Coleção de códigos e exercícios do ensino secundário e ensino superior, mostrando minha evolução e paixão por programação.
 
+. [Projetos da faculdade em Assembly RISC-V](https://github.com/miguelmatos05/Assembly-RISC-V)
+  Coleção de programas em Assembly RISC-V usando um conjunto de instruções, rotinas e sub-rotinas. 
 ---
 
 ## 🌐 Connect with Me
